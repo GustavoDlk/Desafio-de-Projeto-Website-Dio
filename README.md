@@ -1,5 +1,6 @@
 # 🌐 Meu Site Tecnológico
 > Um projeto pessoal desenvolvido por **Gustavo Deluka** para demonstrar habilidades em desenvolvimento web front-end.
+
 🔗 Acesse aqui: https://gustavodlk.github.io/Desafio-de-Projeto-Website-Dio/
 
 ## 📁 Estrutura do Projeto
@@ -109,4 +110,5 @@ Contribuições são sempre bem-vindas! Sinta-se à vontade para:
 *Conectando conhecimento e inovação*
 
 </div>
+
 
